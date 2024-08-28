@@ -1,25 +1,3 @@
-`timescale 1ns / 1ps
-//////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
-// Create Date: 04/16/2024 04:11:22 PM
-// Design Name: 
-// Module Name: IM_INFERENCE
-// Project Name: 
-// Target Devices: 
-// Tool Versions: 
-// Description: 
-// 
-// Dependencies: 
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-//////////////////////////////////////////////////////////////////////////////////
-
-
 module IM_INFERENCE(input [783:0] features,
         input [1567:0] exclude_state_1,exclude_state_2,exclude_state_3,exclude_state_4,
         exclude_state_5,exclude_state_6,exclude_state_7,exclude_state_8,exclude_state_9,exclude_state_10,
