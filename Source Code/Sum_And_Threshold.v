@@ -1,25 +1,3 @@
-`timescale 1ns / 1ps
-//////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
-// Create Date: 27.12.2021 15:42:17
-// Design Name: 
-// Module Name: Sum_And_Threshold for XOR
-// Project Name: 
-// Target Devices: 
-// Tool Versions: 
-// Description: 4 clauses will give their input to this module
-// 
-// Dependencies: 
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-//////////////////////////////////////////////////////////////////////////////////
-
-
 module Sum_And_Threshold(
     input [9:0] pos_clause,
     input [9:0] neg_clause,
